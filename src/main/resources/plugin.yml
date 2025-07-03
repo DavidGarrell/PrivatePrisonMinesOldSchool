@@ -1,0 +1,13 @@
+name: PrivateMine
+version: '${project.version}'
+main: skyblock.main.Main
+api-version: 1.21
+softdepend: [WorldEdit]
+depend:
+commands:
+  mine:
+  pmine:
+  pass:
+  battlepass:
+  rewards:
+  gifts:
